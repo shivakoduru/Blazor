@@ -1,0 +1,14 @@
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.exe
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.deps.json
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.dll
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.pdb
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.dll
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.pdb
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.genruntimeconfig.cache
+C:\Projects\BlazorProjects\BlazorDemo\AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\AbstractFactoryDesignPattern.csproj.AssemblyReference.cache
